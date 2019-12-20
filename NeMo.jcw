@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>NeMo</label>
+		<id>683</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>NeMo.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>NeMo.jcp</path>
+		</project>
+	</projects>
+</workspace>

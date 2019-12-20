@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="Client/|Menus/src/|ImagesToMovieInJava/" kind="src" path=""/>
+	<classpathentry kind="src" path="Client"/>
+	<classpathentry kind="src" path="ImagesToMovieInJava"/>
+	<classpathentry kind="src" path="Menus/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
